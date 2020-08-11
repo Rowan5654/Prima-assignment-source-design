@@ -1,0 +1,15 @@
+How to install:
+
+Extract the folder to wherever you like.
+Inside the folder title "Dreamers" there is an "index.html" file
+Double click this to start the program.
+
+The instructions are shown during the game but here they are again:
+
+Instructions:
+Move with 'w', 'a', 's', 'd'.
+Shoot with 'left mouse'.
+Avoid enemies or else you lose health.
+5 Health is rewarded at the end of every wave.
+Survive 5 waves of enemies to win!
+Note: Health will not be given for skipping waves
